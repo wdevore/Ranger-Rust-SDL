@@ -1,0 +1,8 @@
+[package]
+name = "ranger"
+version = "0.1.0"
+authors = ["William DeVore <william.quartz@gmail.com>"]
+
+[dependencies]
+sdl2 = "0.32"
+font8x8 = "0.2"
